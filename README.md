@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hello, I'm Petros!
 
-<!--
-**PetrosArgg/PetrosArgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 3rd Year Student @ NTUA ECE
+**Electrical and Computer Engineering** at the National Technical University of Athens.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Professional Experience
+I currently work as a **Frontend Developer**, focusing on building scalable web applications with:
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 🛠️ Languages & Technical Skills
+Besides my professional work with web technologies, I use these for engineering and systems:
+*   **C++** (Low-level programming & algorithms)
+*   **Python** (Data science & scripting)
+*   **AI/ML** (Deeply interested in Artificial Intelligence and its applications)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Petros Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+</p>
+
+---
