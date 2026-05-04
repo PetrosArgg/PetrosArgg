@@ -23,10 +23,9 @@ Besides my professional work with web technologies, I use these for engineering 
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=PetrosArgg&show_icons=true&theme=tokyonight&hide_border=true" alt="Petros Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrosArgg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+### 📊 GitHub Stats<p align="left">
+<img src="https://github-readme-stats.shion.dev/api?username=PetrosArgg&show_icons=true&theme=tokyonight" alt="Petros Stats" height="150" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PetrosArgg&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
